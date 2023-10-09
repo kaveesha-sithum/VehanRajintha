@@ -7,7 +7,7 @@
 ![stars](https://img.shields.io/github/stars/VehanRajintha/VehanRajintha?style=social)
 
 ![size](https://img.shields.io/github/repo-size/VehanRajintha/VehanRajintha?color=purple&label=Repo%20Size&style=plastic)
-![license](https://img.shields.io/github/license/VehanRajintha/VehanRajintha?color=purple&label=License&style=plastic)
+![license](https://img.shields.io/github/license/VehanRajintha/X-UI-English-?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Vehan%20Rajintha&color=purple&style=plastic)
 
 
