@@ -11,6 +11,11 @@
 ![developer](https://img.shields.io/static/v1?label=Author&message=Vehan%20Rajintha&color=purple&style=plastic)
 
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8FF700&center=true&vCenter=true&random=false&width=435&lines=Hey+I'm+Vehan+Rajintha;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
+
+
+
 - 😊 I’m Vehan Rajintha
 - 👦🏻 I'm 20 years old
 - 👀 I’m interested in HTML,CSS,Javascript,C++,Hacking,Web developping and...
