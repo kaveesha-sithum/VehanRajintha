@@ -27,4 +27,4 @@
 - 💬 Text me on telegram https://t.me/VehanRajintha
 
 
-<p align="left"> <a href="https://github.com/VehanRajintha/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edgardmessias" alt="edgardmessias" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=VehanRajintha)](https://github.com/ryo-ma/github-profile-trophy)
